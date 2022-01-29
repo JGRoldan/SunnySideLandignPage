@@ -265,7 +265,7 @@ footer .socialMedia svg{
     fill:var(--grDeText);
     margin: .5rem;
 }
-footer .socialMedia svg:active{
+footer .socialMedia svg:hover,footer .socialMedia svg:active{
     fill: var(--white)
 }
 /* -----------DESKTOP----------- */
